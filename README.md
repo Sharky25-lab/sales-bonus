@@ -1,3 +1,4 @@
+https://github.com/Sharky25-lab/sales-bonus.git
 # Проектная работа "Пряники"
 5 спринт, модуль JS
 
